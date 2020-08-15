@@ -1,73 +1,81 @@
-# 星火应用商店官网
-官网网址：https://www.spark-app.store
+# Spark App Store official website
+Website: https://en.spark-app.store
 
-网站概念PPT：https://chaodn-my.sharepoint.com/:p:/g/personal/chaodn_chaodn_tk/ETCi6KEE79lFgY_TE7iinZ0BcpX3_L9uPBLU_jIOmSk_Qw?e=
+Website concept PPT:https://chaodn-my.sharepoint.com/:p:/g/personal/chaodn_chaodn_tk/ETCi6KEE79lFgY_TE7iinZ0BcpX3_L9uPBLU_jIOmSk_Qw?
+E =
 
-问题反馈地址：https://support.qq.com/products/178646 网站目前为测试阶段，欢迎大家提出建议！
+Problem feedback address: https://support.qq.com/products/178646 for testing phase at present, we welcome the advice!
 
-产品博客地址：https://support.qq.com/products/178646/blog-archive
+Product blog: https://support.qq.com/products/178646/blog-archive
 
-目前网站UI一般般，以后会越做越好。欢迎UI大佬加入我们！
+At present, the site UI general general, the future will do better.
+Welcome to the UI boss!
 
-## 团队介绍
-由深度科技论坛（bbs.deepin.org）大佬 shenmo 发起的星火工作组致力于丰富 Linux 生态，
-取“星星之火，可以燎原”之意，组建了星火应用商店。
-我们是个年轻的团队，大部分成员是 00 后，有小学生，中学生，大学生，来自五湖四海。
-尽管我们年龄不同，资历不同，但是我们努力建设 Linux 生态的目标是相同的，
-我们有信心、也有勇气做到这些！
+Team introduction
+The Spark Working Group, launched by Shenmo at the Deep Technology Forum (BBS.deepin.org), is dedicated to enriching the Linux ecosystem,
+Take the meaning of "a single spark can start a prairie fire", set up the Spark app Store.
+We are a young team, most of the members are after 2000, there are primary school students, middle school students, college students, from all over the country.
+Despite our different ages and qualifications, our goal in trying to build a Linux ecosystem is the same,
+We have the confidence and the courage to do so.
 
-网站制作管理：chaodn Playhi
+Website production management: ChaoDN Playhi
 
-UI概念设计师：akliusizhe 
+UI Concept Designer: Akliusizhe
 
-## 更新日志
+Update the log
 
-> 20200806
+& gt;
+20200806
 
-1.优化 首页图片清晰度与速度.
+1. Optimize the sharpness and speed of pictures on the homepage.
 
-2.更新 网站layui框架版本为V2.5.6。
+2. Update the website layUI framework version to V2.5.6.
 
-3.增加 网站数据统计代码。
+3. Add code of website statistics.
 
-> 20200806
+& gt;
+20200806
 
-1.优化 导航栏logo大小。
+1. Optimize the logo size of navigation bar.
 
-2.更新 下载页面的内容。
+2. Update the content of the download page.
 
-3.增加 关于我们页面内容。
+3. Add content about our page.
 
-4.优化 UI。
+4. Optimize UI.
 
-> 20200805
+& gt;
+20200805
 
-1.修复 底部旁边空白问题。
+1. Fix the bottom side blank.
 
-2.优化 首页UI。
+2. Optimize the UI on the home page.
 
-3.修改 下载按钮，更加美观。
-## 加入我们
-软件维护员
+3. Modify the download button to make it more beautiful.
+Join us
+Software maintainer
 
-> 职位描述
+& gt;
+The job description
 
-年龄：不限
+Age: Unlimited
 
-性别：不限
+Gender: Not limited
 
-工作地点：地球
+Work place: Earth
 
-学历要求：小学及以上
+Education: Primary school or above
 
-能力要求：会使用Deepin V20或其它linux系统，会打字，会上网，会下载软件安装包，有责任心，有电脑。
+Ability: can use Deepin V20 or other Linux system, can type, can surf the Internet, can download software installation package, responsible, have computer.
 
-职责：搜集软件，打包软件，维护者可以不是开发者，但必须有认真负责的态度，对于自己维护的软件包应当维护到底。若不能维护，请在软件标题写明已停止维护并通知站长或其他开发者以便于找人接手。
+Responsibilities: Collect and package software. Maintainers may not be developers, but they must have a serious and responsible attitude. They should maintain the software packages they maintain to the end.
+If maintenance is not possible, please indicate in the title that maintenance has been stopped and notify the webmaster or other developers so that someone can take over.
 
-投递须知：http://www.shenmo.tech:420/?p=193
->联系方式
+Delivery instructions: http://www.shenmo.tech:420/?
+P = 193
+& gt;
+contact
 
-QQ群：872690351
+QQ group: 872690351
 
-网站开发QQ群：1044531138
-
+Website development QQ group: 1044531138
